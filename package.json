@@ -1,0 +1,25 @@
+{
+    "name": "portafolio-2024",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "serve": "vite preview"
+    },
+    "author": "",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pmarambio/portafolio-2024.git"
+    },
+    "keywords": [],
+    "bugs": {
+        "url": "https://github.com/pmarambio/portafolio-2024/issues"
+    },
+    "homepage": "https://github.com/pmarambio/portafolio-2024#readme",
+    "devDependencies": {
+        "vite": "^6.0.3"
+    }
+}
